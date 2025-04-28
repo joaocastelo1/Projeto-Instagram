@@ -39,7 +39,17 @@ Implementar um formulário funcional de login.
 Adicionar validações de formulário.
 
 Melhorar a adaptação para dispositivos móveis (mobile-first).
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Imagens:</h2>
+  </ul>
+</div>
 
+<div align="center"> 
+  <img src="https://i.postimg.cc/c1Bn3LFL/Screenshot-2.png">
+</div>
+<br>
 📝 Licença
 Projeto desenvolvido para fins educacionais e de prática de HTML e CSS.
 © 2025 - João Castelo de Sousa Ferreira
